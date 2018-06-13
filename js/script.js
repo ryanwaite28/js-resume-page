@@ -11,7 +11,7 @@
       email: 'example@test.com'
     },
     social: {
-      gitub: 'https://www.linkedin.com/in/ryanwaite28',
+      gitub: 'https://github.com/ryanwaite28',
       linkedin: 'https://www.linkedin.com/in/ryanwaite28'
     },
     skills: ['HTML5', 'CSS3', 'JavaScript ES6', 'Python', 'SQL']
