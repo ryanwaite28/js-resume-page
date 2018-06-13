@@ -1,0 +1,62 @@
+body {
+  overflow-x: hidden;
+  display: block;
+  margin: auto;
+  padding: 10px 0px;
+  width: 1000px;
+  max-width: 95%;
+  background: #f2f2f2;
+}
+
+img {
+  max-width: 100%;
+}
+
+p, a, li {
+  word-wrap: break-word;
+}
+
+#bio-icon {
+
+}
+
+.content-box {
+  padding: 3vh;
+  background: #fff;
+  margin: 15px 0px;
+  border: 1px solid grey;
+  box-shadow: 0px 1px 1px grey;
+}
+
+.section-heading {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 325px;
+  max-width: 98%;
+  padding: 10px;
+  border-bottom: 1px solid grey;
+  margin-bottom: 25px;
+}
+
+.polaroid {
+  /* width: 125px; */
+  padding: 5px;
+  background: #f2f2f2;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.section-container {
+
+}
+
+.section-container .row {
+  margin-bottom: 10px;
+  padding: 2vh;
+  background: #fbfbfb;
+  border: 1px solid lightgrey;
+  box-shadow: 0px 1px 1px lightgrey;
+}
