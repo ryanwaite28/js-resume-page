@@ -281,7 +281,7 @@
     let image_div = columns[0];
     let image = document.createElement('img');
     image.setAttribute('id', 'bio-icon');
-    image.classList.add('polaroid', 'transition');
+    image.classList.add('polaroid', 'transition', 'middlr');
     image.src = ryan.bio.icon;
     image_div.appendChild(image);
     let name_role_text = document.createElement('h4');
